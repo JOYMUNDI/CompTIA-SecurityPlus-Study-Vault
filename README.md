@@ -14,8 +14,8 @@ Welcome to my preparation repository for the **CompTIA Security+ SY0-701** exam.
 
 ### 🔍 Domain Checklist
 *To check a box, replace the empty space `[ ]` with an `[x]`.*
-- [ ] **Domain 1:** Security controls (Technical, Administrative, Physical), CIA Triad, and AAA principles.
-- [ ] **Domain 2:** Malware types, social engineering tactics, and threat actor motivations.
+- [x] **Domain 1:** Security controls (Technical, Administrative, Physical), CIA Triad, and AAA principles.
+- [x] **Domain 2:** Malware types, social engineering tactics, and threat actor motivations.
 - [ ] **Domain 3:** Secure network architecture, cloud models, and cryptographic concepts.
 - [ ] **Domain 4:** Log analysis, incident response toolkits, and alert monitoring.
 - [ ] **Domain 5:** Governance, risk assessments, privacy regulations, and compliance standards.
