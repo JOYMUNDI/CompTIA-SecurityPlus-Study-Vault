@@ -38,9 +38,11 @@ This section tracks the practical technical skills I am developing to reinforce 
 
 | Date | Time Spent | Topics Covered | Key Takeaway / Practice Scores |
 | :--- | :--- | :--- | :--- |
-| **Today** | 2 hours | Domain 1.1: Security Controls | Learned the difference between Detective and Preventive controls. |
-| | | | |
-| | | | |
+|22/09/26| 2 hours | Domain 1.1: Security Controls | Learned the difference between Detective and Preventive controls. |
+| 23/09/26| Domain 1.2: Security Concepts| | |
+| |Domain 1.3: change Management Importance |
+| | Domain 1.4: Cryptographic Solutions|
+| |Domain 2.1: Threat actors | | |
 
 ---
 
