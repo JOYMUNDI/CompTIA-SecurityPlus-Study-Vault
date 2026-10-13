@@ -6,8 +6,8 @@ Welcome to my preparation repository for the **CompTIA Security+ SY0-701** exam.
 
 | Domain | Weight | Status |
 | :--- | :---: | :--- |
-| **1.0 General Security Concepts** | 12% | ⏳ In Progress |
-| **2.0 Threats, Vulnerabilities, and Mitigations** | 22% | 🟥 Not Started |
+| **1.0 General Security Concepts** | 12% | Complete |
+| **2.0 Threats, Vulnerabilities, and Mitigations** | 22% | Complete |
 | **3.0 Security Architecture** | 18% | 🟥 Not Started |
 | **4.0 Security Operations** | 28% | 🟥 Not Started |
 | **5.0 Security Program Management and Oversight** | 20% | 🟥 Not Started |
